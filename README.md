@@ -21,10 +21,10 @@ Se você curtir o projeto, **deixe uma estrelinha ⭐, compartilhe 👍 e me sig
 ## 📷 Demonstração
 
 ### Capa do Projeto
-*(Adicione aqui a imagem de capa do projeto)*
+*(Adicionarei aqui a imagem de capa do projeto)*
 
 ### Gif de Demonstração
-*(Adicione aqui um gif mostrando o funcionamento do aplicativo)*
+*(Adicionarei futuramente aqui um gif mostrando o funcionamento do aplicativo)*
 
 ---
 
